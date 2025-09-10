@@ -128,6 +128,8 @@ namespace Municipality
             this.lstReports.Name = "lstReports";
             this.lstReports.Size = new System.Drawing.Size(400, 340);
             this.lstReports.TabIndex = 7;
+            this.lstReports.SelectedIndexChanged += new System.EventHandler(this.LstReports_SelectedIndexChanged);
+
             // 
             // lblDetails
             // 
