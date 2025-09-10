@@ -168,6 +168,8 @@ namespace Municipality
             this.btnClose.Size = new System.Drawing.Size(80, 30);
             this.btnClose.TabIndex = 11;
             this.btnClose.Text = "Close";
+            this.btnClose.Click += new System.EventHandler(this.BtnClose_Click);
+
             // 
             // ViewReportsForm
             // 
