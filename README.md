@@ -20,7 +20,7 @@ The **Municipality Management System** is a comprehensive Windows Forms applicat
 - **Smart Categories**: Predefined categories (Infrastructure, Utilities, Environment, Safety, Transportation)
 - **Priority Levels**: Configurable priority settings (Low, Medium, High, Urgent)
 
-### �� Report Management
+### Report Management
 - **View Reports**: Complete report viewing and management system
 - **Search Functionality**: Search reports by email address
 - **Status Filtering**: Filter reports by status (Open, In Progress, Responded, Completed)
@@ -102,22 +102,6 @@ The **Municipality Management System** is a comprehensive Windows Forms applicat
 - **Professional Polish**: Hover effects and smooth interactions
 
 ## Technical Details
-
-### File Structure
-Municipality/
-├── Forms/
-│   ├── MainForm.cs
-│   ├── MainForm.Designer.cs
-│   ├── ReportIssueForm.cs
-│   └── ViewReportsForm.cs
-├── Models/
-│   └── Issue.cs
-├── DataStructures/
-│   ├── IssueList.cs
-│   └── IssueNode.cs
-├── Properties/
-├── Program.cs
-└── Municipality.csproj
 
 ### Key Components
 - **MainForm**: Main dashboard and navigation
