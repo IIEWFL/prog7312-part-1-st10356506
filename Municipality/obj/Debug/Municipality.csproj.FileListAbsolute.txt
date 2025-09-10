@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Municipality\obj\Debug\Municipality.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Municipality\obj\Debug\Municipality.MainForm.resources
+C:\Users\HP\source\repos\Municipality\obj\Debug\Municipality.Properties.Resources.resources
+C:\Users\HP\source\repos\Municipality\obj\Debug\Municipality.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Municipality\obj\Debug\Municipality.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Municipality\bin\Debug\Municipality.exe.config
+C:\Users\HP\source\repos\Municipality\bin\Debug\Municipality.exe
+C:\Users\HP\source\repos\Municipality\bin\Debug\Municipality.pdb
+C:\Users\HP\source\repos\Municipality\obj\Debug\Municipality.exe
+C:\Users\HP\source\repos\Municipality\obj\Debug\Municipality.pdb
+C:\Users\HP\source\repos\Municipality\obj\Debug\Municipality.ViewReportsForm.resources
